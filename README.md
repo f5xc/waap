@@ -77,7 +77,7 @@ Under Private Key, click “Configure”<br>
 ![image](images/A003-addpublickey.png)<br>
 
 2.9) Under Secret Info, click “Blindfold Secret”<br>
-Under Text, paste private key value provided as part of the lab guide file (obtain public key from Lab Assistant)<br>
+Under Text, paste private key value provided as part of the lab guide file (obtain private key from Lab Assistant)<br>
 Click “Blindfold”<br>
 Click “Apply"<br>
 ![image](images/A004-blindfoldkey.png)<br>
