@@ -118,10 +118,10 @@ Click “Apply”<br>
 2.20)	Keep the rest as default and click “Save and Exit” at the end of the page<br>
 ![image](images/023tlsaveandexit.png)<br>
  
-2.21)	System provisioned the load balancer with a valid custom wildcard SSL certificate. Inform Lab assistant to provision your CNAME and virtual host DNS info separately <b>BEFORE</b> proceeding to browse your domain e.g., steve.ntt.hybridcloud.ml<br>
+2.21)	System provisioned the load balancer with a valid custom wildcard SSL certificate. Inform Lab assistant to provision your CNAME and virtual host DNS info separately <b>BEFORE</b> proceeding to browse your domain e.g., steve-juiceshop.hybridcloud.ml<br>
 ![image](images/A009wildcardssl.png)<br>
  
-2.22)	Application has been on boarded and can be browsed using the domain name with http to https redirection capable e.g., steve.ntt.hybridcloud.ml<br>
+2.22)	Application has been on boarded and can be browsed using the domain name with http to https redirection capable e.g., steve-juiceshop.hybridcloud.ml<br>
 ![image](images/024browsedomain.png)<br>
 <br>
 <h4>Section 3:  Enable WAAP</h4>
@@ -258,7 +258,7 @@ This might take up to 2 hours to populate<br>
 5.19)	Enter Metadata “Name” as yourname-juiceshop-swagger-va e.g., steve-juiceshop-swagger-v1, click “Upload File” from Upload Swagger File<br>
 ![image](images/063uploadswaggerfile.png)<br>
 
-5.20)	Select “F5_NTT_Lab_Guide_v1_juice-shop_rest-v1-swagger.json” file saved in your local drive and click “Open”, which provided as part of the Lab exercise file or can be viewed and copied [here](https://github.com/f5xc/ntt-waap/blob/main/F5_NTT_Lab_Guide_v1_juice-shop_rest-v1-swagger.json)<br>
+5.20)	Select “F5_Lab_Guide_v1_juice-shop_rest-v1-swagger.json” file saved in your local drive and click “Open”, which provided as part of the Lab exercise file or can be viewed and copied [here](https://github.com/f5xc/waap/blob/main/F5_Lab_Guide_v1_juice-shop_rest-v1-swagger.json)<br>
 ![image](images/064swaggerfileselect.png)<br>
 
 5.21)	Click “Continue”<br>
