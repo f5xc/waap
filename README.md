@@ -60,7 +60,7 @@ This section focusses on onboarding an application and accessing it via F5 XC<br
 
 2.5)	Provide the following Metadata details<br>
 Name: yourname-juiceshop [e.g., steve-juiceshop as shown in screenshot]<br>
-Domain and LB Type: yourname.ntt.hybridcloud.ml [e.g., steve.ntt.hybridcloud.ml]<br>
+Domain and LB Type: yourname.hybridcloud.ml [e.g., steve.hybridcloud.ml]<br>
 ![image](images/014addlbmetadata.png)<br>
 
 2.6)	Load Balancer Type: “HTTPS with Custom Certificate”<br>
@@ -72,12 +72,12 @@ Click "Configure" under TLS Parameters<br>
 2.7)	Under TLS Certificates, click “Add Item”<br>
 ![image](images/A002-addcustomssl.png)<br>
  
-2.8)	Under Certificate URL, select “PEM” and paste full chain certificate public key value provided as part of the lab guide file (public key can be viewed and copied [here](https://github.com/f5xc/ntt-waap/blob/main/wildcard/fullchainpublickey.txt))<br>
+2.8)	Under Certificate URL, select “PEM” and paste full chain certificate public key value provided as part of the lab guide file (obtain public key from Lab Assistant)<br>
 Under Private Key, click “Configure”<br>
 ![image](images/A003-addpublickey.png)<br>
 
 2.9) Under Secret Info, click “Blindfold Secret”<br>
-Under Text, paste private key value provided as part of the lab guide file (private key can be viewed and copied [here](https://github.com/f5xc/ntt-waap/blob/main/wildcard/privatekey.txt))<br>
+Under Text, paste private key value provided as part of the lab guide file (obtain public key from Lab Assistant)<br>
 Click “Blindfold”<br>
 Click “Apply"<br>
 ![image](images/A004-blindfoldkey.png)<br>
