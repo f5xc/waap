@@ -281,7 +281,6 @@ This might take up to 2 hours to populate<br>
 <br>
 <h4>Acknowledgement</h4>
 1)	Shahnawaz Backer, Senior Solutions Architect, F5, Lab Author<br>
-2)	Shaji Firoz, Senior Specialist, Service Offer Management, NTT, Lab Co-Author<br>
 <br>
 Please provide your feedback about this Lab session at following URL, thank you!<br>
 <br>
