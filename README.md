@@ -60,7 +60,7 @@ This section focusses on onboarding an application and accessing it via F5 XC<br
 
 2.5)	Provide the following Metadata details<br>
 Name: yourname-juiceshop [e.g., steve-juiceshop as shown in screenshot]<br>
-Domain and LB Type: yourname.hybridcloud.ml [e.g., steve.hybridcloud.ml]<br>
+Domain and LB Type: yourname-juiceshop.hybridcloud.ml [e.g., steve-juiceshop.hybridcloud.ml]<br>
 ![image](images/014addlbmetadata.png)<br>
 
 2.6)	Load Balancer Type: “HTTPS with Custom Certificate”<br>
