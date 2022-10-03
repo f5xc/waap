@@ -14,7 +14,7 @@ ACKNOWLEDGEMENT<br>
 <h4>PRE-REQUISITE</h4>
 •	F5 Distributed Cloud credential<br>
 •	Laptop/desktop browser with internet connectivity<br>
-•	Target application: http://js.witcher.sg<br>
+•	Target application: Obtain website URL from Lab Assistant<br>
 <br>
 <h4>SECTION 1: SETTING UP THE NEW ACCOUNT</h4>
 This section focusses on setting up your new account<br><br>
