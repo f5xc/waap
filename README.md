@@ -28,7 +28,7 @@ This section focusses on setting up your new account<br><br>
 1.3)	Click “Log In”<br>
 ![image](images/004clicklogin.png)<br>
 
-1.4)	Provide tenant name “ntt-singapore”. Click “Next”<br>
+1.4)	Provide tenant name “f5-xctestdrive”. Click “Next”<br>
 ![image](images/005tenantlogin.png)<br>
 
 1.5)	Provide credential to login<br>
