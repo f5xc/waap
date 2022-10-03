@@ -102,7 +102,7 @@ Name: yourname-juiceshop-orig, e.g., steve-juiceshop-orig<br>
 ![image](images/018addoriginservers.png)<br>
 
 2.16)	Select Type of Origin Server: “Public DNS Name of Origin Server”<br>
-DNS Name: “js.witcher.sg”<br>
+DNS Name: Obtain DNS Name from Lab Assistant<br>
 Click “Apply”<br>
 ![image](images/019addorigindns.png)<br>
 
