@@ -11,9 +11,6 @@ SECTION 4:  VISIBILITY/DAY2 OPERATIONS<br>
 SECTION 5:  TURNING ON API DISCOVERY & SHADOW API<br>
 ACKNOWLEDGEMENT<br>
 <br>
-<h3>Lab Overview</h3>
-
-![image](images/NTTF5XCLabOverview.png)<br>
 <h4>PRE-REQUISITE</h4>
 •	F5 Distributed Cloud credential<br>
 •	Laptop/desktop browser with internet connectivity<br>
