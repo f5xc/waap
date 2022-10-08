@@ -298,5 +298,3 @@ https://forms.office.com/r/tVhhNSS3e2<br>
 Next labs, Bot Protection, automated (scripted) provision, and more<br>
 Look forward to seeing you again at next lab.<br>
 <br>
-<a href="#toc">Table of Content</a>
-<br>
