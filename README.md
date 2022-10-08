@@ -1,22 +1,24 @@
 <h2>F5 Distributed Cloud WAAP Hands-On Lab</h2>
 
 ![image](images/001welcome.png)<br>
+<a id="toc"></a>
 <br>
 <h3>Table of Contents</h3>
-PRE-REQUISITE<br>
-SECTION 1: SETTING UP THE NEW ACCOUNT<br>
-SECTION 2: ONBOARDING A NEW APPLICATION<br>
-SECTION 3: ENABLE WAAP<br>
-SECTION 4: VISIBILITY/DAY2 OPERATIONS<br>
-SECTION 5: TURNING ON API DISCOVERY & SHADOW API<br>
-ACKNOWLEDGEMENT<br>
-<br>
+<a href="#pre">PRE-REQUISITE</a><br>
+<a href="#acc">SECTION 1: SETTING UP THE NEW ACCOUNT</a><br>
+<a href="#obd">SECTION 2: ONBOARDING A NEW APPLICATION</a><br>
+<a href="#ewp">SECTION 3: ENABLE WAAP</a><br>
+<a href="#vis">SECTION 4: VISIBILITY/DAY2 OPERATIONS</a><br>
+<a href="#dis">SECTION 5: TURNING ON API DISCOVERY & SHADOW API</a><br>
+<a href="#ack">ACKNOWLEDGEMENT</a><br>
+<a href="#toc">Table of Content</a>
+<a id="pre"></a><br>
 <h4>PRE-REQUISITE</h4>
 •	F5 Distributed Cloud credential<br>
 •	Laptop/desktop browser with internet connectivity<br>
 •	Target application: Obtain website URL from Lab Assistant<br>
-<br>
-<h4>SECTION 1: SETTING UP THE NEW ACCOUNT</h4>
+<a id="acc"></a><br>
+<h4>SECTION 1: SETTING UP THE NEW ACCOUNT</a></h4>
 This section focusses on setting up your new account<br><br>
 1.1)	Email with link to change password. Click “Update Password”<br>
 
@@ -42,7 +44,8 @@ This section focusses on setting up your new account<br><br>
 
 1.8)	Select Advance. Click “Get Started”<br>
 ![image](images/009getstarted.png)<br>
- 
+<a href="#toc">Table of Content</a>
+<a id="obd"></a>
 <h4>SECTION 2:  ONBOARDING A NEW APPLICATION</h4>
 This section focusses on onboarding an application and accessing it via F5 XC<br><br> 
 2.1)	On the home page click “Web App & API protection”, from Common Services<br>
@@ -123,7 +126,8 @@ Click “Apply”<br>
  
 2.22)	Application has been on boarded and can be browsed using the domain name with http to https redirection capable e.g., steve-juiceshop.hybridcloud.ml<br>
 ![image](images/024browsedomain.png)<br>
-<br>
+<a href="#toc">Table of Content</a>
+<a id="ewp"></a><br>
 <h4>Section 3:  Enable WAAP</h4>
 This section focusses on securing the application with WAAP<br><br>
 
@@ -173,7 +177,8 @@ Name: yourname-blocking-waf [e.g., steve-blocking-waf]<br>
 
 3.15)	Run the same test as step 1 and this time, it should be blocked<br>
 ![image](images/038blockedsqlinjection.png)<br>
-<br>
+<a href="#toc">Table of Content</a>
+<a id="vis"></a><br>
 <h4>Section 4:  Visibility/Day2 Operations</h4>
 This section focusses on traffic and security insights<br><br>
 
@@ -197,6 +202,8 @@ This section focusses on traffic and security insights<br><br>
 
 4.7)	Analyze the security dashboard<br>
 ![image](images/045analysesecurity.png)<br>
+<a href="#toc">Table of Content</a>
+<a id="dis"></a>
 <br>
 <h4>Section 5:  Turning on API Discovery & Shadow API</h4>
 This section focusses on turning on API Discovery feature<br><br>
@@ -278,6 +285,8 @@ This might take up to 2 hours to populate<br>
 
 5.26)	Click “API Endpoints” to view detected “Shadow APIs”<br>
 ![image](images/069shadowapis.png)<br>
+<a href="#toc">Table of Content</a>
+<a id="ack"></a>
 <br>
 <h4>Acknowledgement</h4>
 1)	Shahnawaz Backer, Senior Solutions Architect, F5, Lab Author<br>
@@ -287,4 +296,7 @@ Please provide your feedback about this Lab session at following URL, thank you!
 https://forms.office.com/r/tVhhNSS3e2<br>
 <br>
 Next labs, Bot Protection, automated (scripted) provision, and more<br>
-Look forward to seeing you again at next lab.<br><br>
+Look forward to seeing you again at next lab.<br>
+<br>
+<a href="#toc">Table of Content</a>
+<br>
