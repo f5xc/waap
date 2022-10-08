@@ -11,12 +11,12 @@
 <a href="#vis">SECTION 4: VISIBILITY/DAY2 OPERATIONS</a><br>
 <a href="#dis">SECTION 5: TURNING ON API DISCOVERY & SHADOW API</a><br>
 <a href="#ack">ACKNOWLEDGEMENT</a><br>
-<a href="#toc">Table of Content</a>
 <a id="pre"></a><br>
 <h4>PRE-REQUISITE</h4>
 •	F5 Distributed Cloud credential<br>
 •	Laptop/desktop browser with internet connectivity<br>
 •	Target application: Obtain website URL from Lab Assistant<br>
+<a href="#toc">Table of Content</a>
 <a id="acc"></a><br>
 <h4>SECTION 1: SETTING UP THE NEW ACCOUNT</a></h4>
 This section focusses on setting up your new account<br><br>
