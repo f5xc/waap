@@ -30,10 +30,10 @@ This section focusses on setting up your new account<br><br>
 1.3)	Click “Log In”<br>
 ![image](images/004clicklogin.png)<br>
 
-1.4)	Provide tenant name “f5-xctestdrive”. Click “Next”<br>
+1.4)	Provide a tenant name (Obtain actual name from lab assistant). Click “Next”<br>
 ![image](images/005tenantlogin.png)<br>
 
-1.5)	Provide credential to login<br>
+1.5)	Provide credential to login (Enter your actual email and password). Click "Sign In"<br>
 ![image](images/006credentiallogin.png)<br>
 
 1.6)	Click “Check box” and “Accept and Agreement”<br>
