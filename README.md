@@ -1,6 +1,7 @@
 <h2>F5 Distributed Cloud WAAP Hands-On Lab</h2>
 
 <h3> Web Application & API Protection </h3>
+
 ![image](images/001welcome.png)<br>
 <a id="toc"></a>
 <br>
